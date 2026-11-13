@@ -132,9 +132,9 @@ Through this project, I gained practical experience in:
 
 ## 👩‍💻 Developer
 
-**Fareeda Zarlal
-Mobile App development Intern at stack and scale
-Computer Software Engineering Student
+**Fareeda Zarlal**
+**Mobile App development Intern at stack and scale**
+**Computer Software Engineering Student**
 
 GitHub: [@FareedaZarlal](https://github.com/FareedaZarlal)
 
